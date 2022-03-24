@@ -1,3 +1,4 @@
 # Colour-Game
-A game with colour boxex
+A game with colour boxes
+
 
